@@ -1,0 +1,1 @@
+{"name":"Local: Exp3","url":"c:\\Users\\perei\\OneDrive\\Documents\\MCN\\Exp3.cpp","tests":[{"id":1678644403258,"input":"10101010\n1011","output":""},{"id":1678644516122,"input":"101100\n1101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\perei\\OneDrive\\Documents\\MCN\\Exp3.cpp","group":"local","local":true}
